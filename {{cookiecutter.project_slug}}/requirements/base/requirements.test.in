@@ -1,0 +1,12 @@
+pytest
+pytest-socket
+
+flake8
+flake8-bugbear
+flake8-builtins
+
+mypy
+
+isort
+
+bandit

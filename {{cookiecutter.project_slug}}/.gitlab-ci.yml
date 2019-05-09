@@ -1,0 +1,12 @@
+.common:
+  image: python:3.7
+  before_script:
+    - pip install '.[testing]'
+
+tests:
+  extends: .common
+  script: make tests
+
+lint:
+  extends: .common
+  script: make linters

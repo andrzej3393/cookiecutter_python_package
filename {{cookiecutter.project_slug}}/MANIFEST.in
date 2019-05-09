@@ -1,0 +1,11 @@
+include LICENSE
+include Makefile
+include README.md
+
+recursive-include tests *
+
+prune .dockerignore
+prune Dockerfile
+
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
