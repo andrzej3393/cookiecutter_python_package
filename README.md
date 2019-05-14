@@ -1,4 +1,6 @@
 # Cookiecutter Python Package
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fandrzej3393%2Fcookiecutter_python_package.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fandrzej3393%2Fcookiecutter_python_package?ref=badge_shield)
+
 
 Cookiecutter template for a Python package.
 
@@ -27,3 +29,7 @@ Install Cookiecutter:
 Generate a Python package project:
 
     cookiecutter https://gitlab.com/andrzej3393/cookiecutter_python_package.git
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fandrzej3393%2Fcookiecutter_python_package.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fandrzej3393%2Fcookiecutter_python_package?ref=badge_large)
